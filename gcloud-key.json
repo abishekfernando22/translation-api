@@ -1,5 +1,0 @@
-git rm --cached gcloud-key.json
-echo "gcloud-key.json" >> .gitignore
-git commit -m "Remove exposed credentials"
-git push
-
