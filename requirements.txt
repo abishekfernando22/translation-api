@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+google-cloud-translate
+langdetect
+transformers
+torch
+spacy
